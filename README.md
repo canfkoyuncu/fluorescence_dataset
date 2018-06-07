@@ -5,7 +5,7 @@ The dataset contains 2661 cell nuclei of 37 fluorescence microscopy images. The 
 The images are numbered starting from 1. The first 25 images belong to the cell line, Hepg2. The rest belong to Huh7 cell line. 
 
 We split the dataset into two sets, training and test sets. To have a fair benchmarking, you may want to use the same training and test sets. Below, you can find the images used for training and test sets, seperately.
-
+⋅⋅* Unordered sub-list. 
 Training set: 
     Hepg2 -> 1, 3, 7, 15, 23
     Huh7 -> 27, 28, 33, 35, 39
