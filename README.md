@@ -19,10 +19,11 @@ We use 785 nuclei of ten randomly selected images (five Huh7 and five HepG2 cell
 
 # Publications using the dataset
 You can find the publications published by our group which use this dataset for experimental analysis:
+'''
 * C.F. Koyuncu, R. Cetin-Atalay, and C. Gunduz-Demir, "Object Oriented Segmentation of Cell Nuclei in Fluorescence
 Microscopy Images," Cytometry: Part A (in revision).
 * C.F. Koyuncu, A. Akhan, T. Ersahin, R. Cetin-Atalay, and C. Gunduz-Demir, "Iterative h-minima based marker-controlled watershed for cell nucleus segmentation," Cytometry: Part A, 89A:338-249, 2016.
 * S. Arslan, T. Ersahin, R. Cetin-Atalay, and C. Gunduz-Demir, "Attributed relational graphs for cell nucleus segmentation in fluorescence microscopy images," IEEE Transactions on Medical Imaging, 32(6):1121-1131, 2013.
-
+'''
 # References
 
