@@ -17,7 +17,7 @@ We split the dataset into two sets, training and test sets. To have a fair bench
     
 We use 785 nuclei of ten randomly selected images (five Huh7 and five HepG2 cell line images) in the training set, on which the model parameters are estimated. The nuclei in the remaining 27 images are used for testing. HepG2 cells tend to grow in more overlayers than Huh7 cells. This leads to more overlapping nuclei in the images of the HepG2 cell line. Thus, we separately test our algorithm for these cell lines. The Huh7 cell line test set includes 891 nuclei of 11 images and the HepG2 cell line test set includes 985 nuclei of 16 images.
 
-It is made publicly available in the hope of accelerating microscopic image analysis research.
+It is made publicly available in the hope of accelerating microscopic image analysis research. For further information please contact Cigdem Gunduz-Demir via email gunduz@cs.bilkent.edu.tr.
 
 # Publications using the dataset
 You can find the publications published by our group which use this dataset for experimental analysis:
@@ -26,5 +26,4 @@ You can find the publications published by our group which use this dataset for 
 [2] C.F. Koyuncu, A. Akhan, T. Ersahin, R. Cetin-Atalay, and C. Gunduz-Demir, "Iterative h-minima based marker-controlled watershed for cell nucleus segmentation," Cytometry: Part A, 89A:338-249, 2016.
 [3] S. Arslan, T. Ersahin, R. Cetin-Atalay, and C. Gunduz-Demir, "Attributed relational graphs for cell nucleus segmentation in fluorescence microscopy images," IEEE Transactions on Medical Imaging, 32(6):1121-1131, 2013.
 ```
-# References
-
+If you use this dataset in your research papers, please refer one of the articles mentioned above.
