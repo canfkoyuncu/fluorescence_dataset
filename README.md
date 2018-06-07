@@ -19,7 +19,7 @@ We use 785 nuclei of ten randomly selected images (five Huh7 and five HepG2 cell
 
 It is made publicly available in the hope of accelerating microscopic image analysis research. For further information please contact Cigdem Gunduz-Demir via email gunduz@cs.bilkent.edu.tr.
 
-# Publications using the dataset
+# Related publications
 You can find the publications published by our group which use this dataset for experimental analysis:
 ```
 [1] C.F. Koyuncu, R. Cetin-Atalay, and C. Gunduz-Demir, "Object Oriented Segmentation of Cell Nuclei in Fluorescence Microscopy Images," Cytometry: Part A (in revision).
