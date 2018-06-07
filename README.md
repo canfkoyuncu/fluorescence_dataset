@@ -1,6 +1,6 @@
 # Fluorescence microscopy images
 
-The dataset contains 2661 cell nuclei of 37 fluorescence microscopy images. The cells were taken from the Huh7 and HepG2 liver cancer cell lines and stained with nuclear Hoechst 33258. Their images were digitized at 20x microscope objective lens and pixel resolution was 768×1024. The nuclei in these images were manually annotated by our biologist collaborator.
+The dataset contains 2661 cell nuclei of 37 fluorescence microscopy images. The cells were taken from the Huh7 and HepG2 liver cancer cell lines and stained with nuclear Hoechst 33258. Their images were digitized at 20x microscope objective lens and pixel resolution was 768×1024. The nuclei in these images were manually annotated by our biologist collaborator. Original RGB images are stored in *images* folder and files storing annotated cells are in *annotations* folder. In an annotation file, cells are labeled starting from 1, which is the label of the top-left cell. Name of annotation files are compatible with its corresponding original image, which means that the annotation file named as *1* stores annotation of cells in the image *1.jpg*. 
 
 The images are numbered starting from 1. The first 25 images belong to the cell line, Hepg2. The rest belong to Huh7 cell line. 
 
